@@ -1,1 +1,1 @@
-# infinitensor_play
+# infiniTensor_play
